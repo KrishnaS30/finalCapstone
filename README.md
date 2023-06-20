@@ -4,8 +4,8 @@
 
 
 ## Table of Contents
-- Acknowledgements
-- Feedbacks
+1. Acknowledgements
+2. Feedbacks
 
 ## Acknowledgements
 
